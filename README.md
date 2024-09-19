@@ -72,6 +72,7 @@ i. Click on the pen icon on the right-hand upper corner of the readme section.
 ii. Edit the readme document by adding your name to the document.
 
 e.g. \#Git-Exercise: STAT ID 927
+#git-Exercise STAT ID 127
 
 ## Step 6:
 Pull the updated readme back to the local device.
